@@ -1,5 +1,7 @@
 # Paidy Forex Proxy
 
+[![CircleCI](https://circleci.com/gh/bazzani/paidy-forex-proxy/tree/master.svg?style=svg)](https://circleci.com/gh/bazzani/paidy-forex-proxy/tree/master)
+
 The application is a local proxy for getting currency exchange rates, so that consumers do not have to care about the
 specifics of third-party providers.
 
